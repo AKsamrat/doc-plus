@@ -36,7 +36,7 @@ const Care = () => {
                 <img src={img3} alt="" />
               </div>
             </div>
-            <div className="bg-white rounded-3xl h-5/6 p-5 mt-12">
+            <div className="bg-white rounded-3xl h-5/6 p-5 mt-[44px]">
               <div className="flex justify-start items-center gap-2">
                 <p className="text-3xl lg:text-5xl font-semibold">4.8</p>
                 <div className="rating">

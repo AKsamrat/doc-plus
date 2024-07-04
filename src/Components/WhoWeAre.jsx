@@ -30,7 +30,7 @@ const WhoWeAre = () => {
           </div>
           <div className="relative text-[#FFFFF5] p-6">
             <img className="rounded-[30px]" src={img1} alt="" />
-            <div className="absolute bg-[#343268] rounded-[30px] px-6 py-10 w-4/6 flex justify-center items-end gap-3 -bottom-6 -left-16">
+            <div className="absolute bg-[#343268] rounded-[30px] px-6 py-10 w-4/6 flex justify-center items-end gap-3 -bottom-28 lg:-bottom-6 lg:-left-16 ">
               <div className="">
                 <p className="text-[26px] font-semibold py-3">
                   Our mission is simple

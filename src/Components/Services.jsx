@@ -28,7 +28,7 @@ const Services = () => {
           </div>
           <div className="relative text-[#FFFFF5] p-6">
             <img className="rounded-[30px]" src={img1} alt="" />
-            <div className="absolute bg-[#020043c3] rounded-[30px] px-2 py-3 w-3/5 flex justify-center items-end gap-3 bottom-12 left-12">
+            <div className="absolute bg-[#020043c3] rounded-[30px] px-2 py-3 w-3/5 flex justify-center items-end gap-3 -bottom-10 lg:bottom-12 left-12">
               <div className="w-2/3">
                 <p className="text-[18px] font-semibold py-3">
                   Advanced Technology
@@ -47,7 +47,7 @@ const Services = () => {
         <div className="grid grid-cols-1 md:grid-cols-2 gap-7">
           <div className="relative text-[#FFFFF5] p-6">
             <img className="rounded-[30px]" src={img2} alt="" />
-            <div className="absolute bg-[#020043c3] rounded-[30px] px-2 py-3 w-3/5 flex justify-center items-end gap-3 bottom-12 left-12">
+            <div className="absolute bg-[#020043c3] rounded-[30px] px-2 py-3 w-3/5 flex justify-center items-end gap-3 -bottom-10 lg:bottom-12 left-12">
               <div className="w-2/3">
                 <p className="text-[20px] font-semibold py-3">
                   Online Doctor Meet
@@ -64,7 +64,7 @@ const Services = () => {
           </div>
           <div className="relative text-[#FFFFF5] p-6">
             <img className="rounded-[30px]" src={img3} alt="" />
-            <div className="absolute bg-[#020043c3] rounded-[30px] px-2 py-3 w-3/5 flex justify-center items-end gap-3 bottom-12 left-12">
+            <div className="absolute bg-[#020043c3] rounded-[30px] px-2 py-3 w-3/5 flex justify-center items-end gap-3 -bottom-10 lg:bottom-12 left-12">
               <div className="w-2/3">
                 <p className="text-[18px] font-semibold py-3">
                   Consultancy your health
